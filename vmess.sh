@@ -176,7 +176,7 @@ Nodes:
 -
     PanelType: "V2board" # Panel type: SSpanel, V2board, PMpanel, Proxypanel
     ApiConfig:
-      ApiHost: "https://ezdigi.biz"
+      ApiHost: "https://znetvpn.me"
       ApiKey: "kenhdidong_mmmzo"
       NodeID: 1
       NodeType: V2ray # Node type: V2ray, Trojan, Shadowsocks, Shadowsocks-Plugin
